@@ -5,4 +5,5 @@ Major : Software
 team-introduction
 Name : Go In Mool
 Team member
-1. Jung In Kim
+1. JungIn_Kim
+2. Gayeon_Kim
