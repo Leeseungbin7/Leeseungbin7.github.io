@@ -1,3 +1,6 @@
 self-introduction
 Name : Seungbin_Lee
 Major : Software
+
+team-introduction
+Name : Go In Mool
